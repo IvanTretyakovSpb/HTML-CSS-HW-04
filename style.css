@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    max-width: 100%;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header__logo {
+    display: flex;
+    gap: 14px;
+    align-items: center;
+}
+
+.header__menu {
+    display: flex;
+    gap: 30px;
+}
